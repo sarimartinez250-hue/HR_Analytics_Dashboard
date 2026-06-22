@@ -4,7 +4,7 @@ Proyecto de análisis de recursos humanos desarrollado en Excel utilizando Power
 
 ## Vista previa
 
-![Dashboard](images/dashboard.png)
+![Dashboard](HR_Analytics_Proyecto_Practica/images/dashboard.png)
 
 ## 📍Objetivo 
 
