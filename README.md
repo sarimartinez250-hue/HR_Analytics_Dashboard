@@ -2,6 +2,10 @@
 
 Proyecto de análisis de recursos humanos desarrollado en Excel utilizando Power Query y Power Pivot.
 
+## Vista previa
+
+![Dashboard](dashboard.png)
+
 ## 📍Objetivo 
 
 Transformar múltiples fuentes de datos de RRHH en un dashboard interactivo para analizar:
