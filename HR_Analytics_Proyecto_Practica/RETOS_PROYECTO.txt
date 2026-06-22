@@ -1,0 +1,16 @@
+
+PROYECTO: HR ANALYTICS
+
+Retos:
+- Limpieza avanzada
+- Power Query
+- Power Pivot
+- Solver
+- Dashboard interactivo
+
+Debes:
+1. Corregir datos inconsistentes
+2. Relacionar tablas por ID_Empleado
+3. Crear KPIs
+4. Crear dashboards
+5. Automatizar carga de archivos
